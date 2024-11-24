@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=KiritoDv&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=KiritoDev)](https://gtce.itsvg.in)
+[![](https://gtce.itsvg.in/api?username=intptr_t)](https://gtce.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KiritoDv&icon=0&color=4)](https://visitcount.itsvg.in)
