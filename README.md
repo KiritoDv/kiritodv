@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Seguridata, Gamershub and Harbour Masters<br>🤝 I’m looking for help with Flutter, C/C++, Java, Javascript, Typescript, C#<br>🌱 I’m currently learning Rust, OpenGL<br>💬 Ask me about anything you want of switch homebrew <3<br>⚡ Fun fact i love coding open source software
+🔭 I’m currently working on NFQ and Harbour Masters<br>🤝 I’m looking for help with Flutter, C/C++, Java, Javascript, Typescript, C#<br>🌱 I’m currently learning Rust, OpenGL<br>💬 Ask me about anything you want of switch homebrew <3<br>⚡ Fun fact i love coding open source software
 
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KiritoDev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lywxdev) 
